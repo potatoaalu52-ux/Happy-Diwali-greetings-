@@ -1,0 +1,6 @@
+{
+  "name": "Festival Greeting - Happy Diwali",
+  "description": "Personalized festive greeting card with firecracker animations, custom names, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
